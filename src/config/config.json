@@ -18,32 +18,32 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "¿Tenés un proyecto increíble ahora mismo?",
+    "description": "Esto ayuda a garantizar la calidad, la programación y que todos estemos trabajando hacia el mismo objetivo.",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "label": "Quiero contactarlos",
+      "link": "/contact"
     }
   },
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "ser-astro",
     "settings": {}
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "footer_description": "Somos una empresa dedicada a la ingeniería y construcción de proyectos de energías renovables. Nuestro objetivo es brindar soluciones energéticas sustentables y eficientes.",
+    "email": "ingenieriaser@rigelec.com.ar",
+    "location": "Las Heras Nº 331 - Piso 1, Concordia, Entre Ríos, Argentina",
+    "phone": "+54 345 625-2686",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024, Juan Manuel Panozzo Zénere | SER"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Juan Manuel Panozzo Zénere",
     "meta_image": "/images/og-image.png",
-    "meta_description": "pinwheel astro"
+    "meta_description": "Ser Astro"
   }
 }
