@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "title": "SER | Servicios de Energias Renovables",
+    "base_url": "https://ser.com.ar",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
-    "logo_width": "147",
+    "logo_width": "130",
     "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo_text": "Ser"
   },
 
   "settings": {
