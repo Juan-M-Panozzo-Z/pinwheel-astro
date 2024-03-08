@@ -10,54 +10,51 @@ banner:
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Aspectos claves de nuestra empresa"
+  description: Somos una empresa dedicada a la excelencia y la innovación, comprometida con la calidad y la satisfacción del cliente. Nuestro equipo apasionado y experto trabaja para ofrecer soluciones únicas y personalizadas que marcan la diferencia en nuestra industria.
   feature_list:
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - icon: "sustain"
+      title: Sostenibilidad
+      content: Nos comprometemos a la promoción y desarrollo de soluciones energéticas sostenibles y respetuosas con el medio ambiente.
+    - icon: "responsability"
+      title: Responsabilidad
+      content: Participando y colaborando en las acciones comunitarias que contribuyan a cuidar el planeta. Contribuyendo activamente a la reducción de la huella de carbono y las emisiones de gases de efecto invernadero.
+    - icon: "innovate"
+      title: Innovación
+      content: Buscando constantemente soluciones innovadoras y desarrollo de tecnologías más eficientes y rentables.
+    - icon: "quality"
+      title: Calidad
+      content: Nos comprometemos a la entrega de productos y servicios de alta calidad, garantizando la satisfacción del cliente y la durabilidad de las soluciones implementadas
+    - icon: "trust"
+      title: Confianza
+      content: Buscamos construir relaciones sólidas con los clientes, basadas en la confianza y la integridad en todas las interacciones.
+    - icon: "collaborate"
+      title: Colaboración
+      content: Mediante la búsqueda de alianzas estratégicas con otros actores del sector para promover el crecimiento y la adopción de energía solar fotovoltaica
+    - icon: "education"
+      title: Educación y divulgación
+      content: Mediante la promoción de la conciencia y el conocimiento sobre la energía solar fotovoltaica, ofreciendo programas de educación y divulgación para clientes y la comunidad en general.
+    - icon: "ethics"
+      title: Ética
+      content: Actuando con integridad y ética en todas nuestras actividades comerciales, prevaleciendo el respeto hacia las partes interesadas.
 
 #service
 service:
   homepage_tab:
-    title: Prevent failure from to impacting your reputation
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
+    title: Nuestras soluciones a medida
+    description: Ofrecemos soluciones personalizadas que se adaptan a las necesidades únicas de cada cliente. Nuestro enfoque personalizado y equipo experto garantizan resultados excepcionales que superan expectativas. Trabajamos estrechamente contigo para impulsar tu éxito con soluciones efectivas y eficientes.
     tab_list:
-        - title: Habit building essential choose habit
-          icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Hogares
+          icon: "lock"
           image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
-          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Empresas
+          icon: "clock"
           image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
-          icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Estaciones de servicio
+          icon: "bell"
+          image: "/images/sells-by-country.png"
+        - title: Bombeo Solar
+          icon: "bell"
           image: "/images/sells-by-country.png"
 
   our_service:
@@ -83,49 +80,19 @@ testimonial:
   title: Our customers have nice things to say about us
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
   testimonial_list:
-    - author: David Cameron
+    - author: Federico Schatenoffer
       avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      organization: 
+      rating: five
+      content: Personas muy responsables y profesionales en todo el proceso del proyecto del potrero san francisco.
+    - author: Mario Smietuch
       avatar: "/images/users/user-6.png"
-      organization: meta limited
-      rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      organization: 
+      rating: five
+      content: Perfectamente conforme con todo el proceso que llevo a la instalación de 16 paneles en mi fabrica de miel.
+    - author: Fernanda Lastiri
       avatar: "/images/users/user-2.png"
-      organization: meta limited
-      rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-3.png"
-      organization: meta limited
+      organization: 
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-4.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-1.png"
-      organization: meta limited
-      rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Fueron muy amables y siempre cumplieron con lo hablado.
 ---

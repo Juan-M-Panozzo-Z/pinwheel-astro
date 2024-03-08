@@ -272,10 +272,10 @@ select:invalid {
   }
 
   .icon {
-    @apply h-6 w-6;
+    @apply h-7 w-7;
 
     svg {
-      @apply text-[#FA7398];
+      @apply text-primary;
     }
   }
 }
@@ -410,7 +410,7 @@ select:invalid {
     @apply mb-4 flex rounded py-0 text-dark opacity-100;
   }
   .tab-nav-item.active {
-    @apply border-b-0 bg-primary/40 py-3.5;
+    @apply border-b-0 bg-primary/40 py-2.5;
   }
 }
 // career
