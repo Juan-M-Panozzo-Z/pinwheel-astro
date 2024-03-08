@@ -1,11 +1,11 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Nosotros",
       "url": "/about"
     },
     {
@@ -13,73 +13,45 @@
       "url": "/blog"
     },
     {
-      "name": "Features",
+      "name": "Nuestros servicios",
       "url": "/features"
     },
     {
-      "name": "How It Works",
+      "name": "¿Como trabajamos?",
       "url": "/how-it-works"
     },
     {
-      "name": "Pages",
+      "name": "Nuestros kits",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Career",
-          "url": "/career"
-        },
-
-        {
-          "name": "Integrations",
-          "url": "/integrations"
-        },
-
-        {
-          "name": "Pricing",
-          "url": "/pricing"
+          "name": "On grid",
+          "url": "/"
         },
         {
-          "name": "Sign In",
-          "url": "/signin"
-        },
-
-        {
-          "name": "Elements",
-          "url": "/elements"
+          "name": "Off grid",
+          "url": "/"
         },
         {
-          "name": "Changelog",
-          "url": "/changelog"
-        },
-        {
-          "name": "Terms And Conditions",
-          "url": "/terms-and-conditions"
+          "name": "Bombeo solar",
+          "url": "/"
         }
       ]
     },
     {
-      "name": "Contact",
+      "name": "Contactanos",
       "url": "/contact"
     }
   ],
-
   "footer": [
     {
-      "name": "About",
+      "name": "Nosotros",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contactanos",
       "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Changelog",
-      "url": "/changelog"
     }
   ]
 }
