@@ -58,27 +58,28 @@ service:
           image: "/images/ser/1.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    - title: Somos instaladores destacados
+      desctiption: Descubre por qué nos destacamos como instaladores líderes en el mercado.
       image: "/images/ser/services/services.png"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+        - Profesionalismo y experiencia en cada instalación
+        - Trabajo personalizado según tus necesidades
+        - Respaldados por Rigelec S.R.L.
+        - Servicio post-venta confiable y comprometido
+    - title: ¡Únete a nuestra comunidad educativa en YouTube!
+      description: Explora nuestro canal de YouTube con una amplia variedad de videos educativos. Desde tutoriales prácticos hasta charlas inspiradoras, encontrarás contenido que te ayudará a expandir tus conocimientos y habilidades.
       video:
         thumbnail: "/images/intro-thumbnail.png"
         video_id: "f54Ei-gz-UU"
       button:
-        label: Know About Us
+        label: Ir al canal
         link: "#"
         enable: true
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: Comentarios de nuestros clientes
+  description: Lee los testimonios de nuestros clientes felices y descubre por qué eligen trabajar con nosotros.
   testimonial_list:
     - author: Federico Schatenoffer
       avatar: "/images/users/user-5.png"

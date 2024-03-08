@@ -1,14 +1,14 @@
 ---
 title: "About"
-page_title: "About our company"
+page_title: "¿Quienes somos en SER?"
 buttons:
   - label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
+    enable: false
   - label: Learn More
     link: "#"
     outline: true
-    enable: true
+    enable: false
 
 # counter
 counter:
@@ -83,4 +83,4 @@ members:
       field: Software Engineer
       image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+Somos una empresa especializada en la instalación de paneles solares para hogares, empresas y campos. Nuestro enfoque es proporcionar soluciones energéticas sostenibles y eficientes que ayuden a reducir costos y proteger el medio ambiente. Contamos con un equipo de profesionales capacitados y utilizamos productos de alta calidad para garantizar resultados óptimos.
