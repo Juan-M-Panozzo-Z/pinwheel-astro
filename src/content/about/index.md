@@ -12,37 +12,30 @@ buttons:
 
 # counter
 counter:
-  - name: "Customers"
-    number: 25
+  - name: "Localidades"
+    number: 15
     messurment: M
     color: "#A3A1FB"
-  - name: "Customers"
-    number: 440
+  - name: "Clientes"
+    number: 52
     messurment: M
     color: "#5EE2A0"
-  - name: "Customers"
-    number: 50
-    messurment: K
-    color: "#FE6019"
-  - name: "Customers"
-    number: 20
-    messurment: K
-    color: "#FEC163"
     
 # Gallery
 gallery:
-  title: We started with one single goal Empower entrepreneurs
+  title: Nuestro Equipo en Acción
   images:
     - "/images/about/gallery-img-1.png"
-    - "/images/about/gallery-img-3.png"
     - "/images/about/gallery-img-2.png"
+    - "/images/about/gallery-img-3.png"
+    - "/images/about/gallery-img-4.png"
 
 ## our works
 features:
-  title: The six core work <br /> drive everything do
+  title: 6 Razones por las cuales <br /> nuestros clientes nos eligen
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Contactanos
+    link: "https://web.whatsapp.com/send?phone=+5493456252686&text=Hola%2C%20me%20comunico%20desde%20la%20web%20de%20*SER*"
     enable: true
   features_list:
     - title: Accessibility
@@ -64,15 +57,6 @@ members:
   title: This is who we are
   description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
-      image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
     - name: Eleanor Pena
       field: Co-founder & COO
       image: "/images/users/user-1.png"
