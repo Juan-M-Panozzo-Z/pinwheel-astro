@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Soluciones en Enegias Renovables"
+  title: "Soluciones en Energias Renovables"
   content: "Somos una empresa especializada en instalación de paneles solares y energía renovable. ¡Transformamos tu hogar o negocio hacia un futuro más sostenible!"
   image: /images/ser/1.png
   button:
