@@ -60,7 +60,7 @@ service:
   our_service:
     - title: Accept payments any country in this whole universe
       desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
-      image: "/images/collaboration.png"
+      image: "/images/ser/services/services.png"
       list:
         - Supporting more than 119 country world
         - Open transaction with more than currencies
@@ -69,7 +69,7 @@ service:
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
       video:
         thumbnail: "/images/intro-thumbnail.png"
-        video_id: "g3-VxLQO7do"
+        video_id: "f54Ei-gz-UU"
       button:
         label: Know About Us
         link: "#"
