@@ -1,12 +1,12 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Soluciones en Enegias Renovables"
+  content: "Somos una empresa especializada en instalación de paneles solares y energía renovable. ¡Transformamos tu hogar o negocio hacia un futuro más sostenible!"
   image: /images/banner-img.png
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
+    enable: false
 
 ##key features
 key_features:
