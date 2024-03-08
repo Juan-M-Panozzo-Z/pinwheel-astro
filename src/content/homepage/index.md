@@ -2,7 +2,7 @@
 banner:
   title: "Soluciones en Enegias Renovables"
   content: "Somos una empresa especializada en instalación de paneles solares y energía renovable. ¡Transformamos tu hogar o negocio hacia un futuro más sostenible!"
-  image: /images/banner-img.png
+  image: /images/ser/1.png
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -45,17 +45,17 @@ service:
     description: Ofrecemos soluciones personalizadas que se adaptan a las necesidades únicas de cada cliente. Nuestro enfoque personalizado y equipo experto garantizan resultados excepcionales que superan expectativas. Trabajamos estrechamente contigo para impulsar tu éxito con soluciones efectivas y eficientes.
     tab_list:
         - title: Hogares
-          icon: "lock"
-          image: "/images/sells-by-country.png"
+          icon: "home"
+          image: "/images/ser/1.png"
         - title: Empresas
-          icon: "clock"
-          image: "/images/collaboration.png"
+          icon: "tool"
+          image: "/images/ser/1.png"
         - title: Estaciones de servicio
-          icon: "bell"
-          image: "/images/sells-by-country.png"
+          icon: "sun"
+          image: "/images/ser/1.png"
         - title: Bombeo Solar
-          icon: "bell"
-          image: "/images/sells-by-country.png"
+          icon: "home"
+          image: "/images/ser/1.png"
 
   our_service:
     - title: Accept payments any country in this whole universe

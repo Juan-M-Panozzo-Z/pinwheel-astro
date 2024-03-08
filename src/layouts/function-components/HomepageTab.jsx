@@ -14,7 +14,7 @@ const HomepageTab = ({ homepage_tab: { tab_list, title, description } }) => {
               className={`tab-content-panel ${tab === index ? "active" : undefined
                 }`}
             >
-              <img className="w-full object-contain" src={item.image} />
+              <img className="w-full object-contain drop-shadow-2xl" src={item.image} />
             </div>
           ))}
         </div>
