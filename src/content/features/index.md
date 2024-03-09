@@ -7,7 +7,7 @@ banner:
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
+    enable: false
 project_management:
   title: Build collaborative workspaces <br /> for your team
   content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. <br /> Mauris pellentesque nec, egestas non nisi. Cras ultricies .
@@ -44,11 +44,11 @@ project_management:
     buttons:
       - label: Download The Theme
         link: "https://themefisher.com/astro-themes/pinwheel-astro"
-        enable: true
+        enable: false
       - label: Learn More
         link: "#"
         outline: true
-        enable: true
+        enable: false
   feature_tab:
     title: Payment gateway for every stage <br /> of your business growth
     list:
