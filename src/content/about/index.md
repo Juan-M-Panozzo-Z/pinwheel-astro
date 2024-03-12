@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Nosotros"
 page_title: "¿Quienes somos en SER?"
 buttons:
   - label: Download The Theme
@@ -23,12 +23,12 @@ counter:
     color: "#5EE2A0"
 
   - name: "Paneles instalados"
-    number: 150
+    number: 153
     messurment: KW
     color: "#FF6A6A"
 
-  - name: "almacenamiento en baterias"
-    number: 50
+  - name: "Almacenamiento en baterias"
+    number: 54
     messurment: KWh
     color: "#FFA800"
 
@@ -43,7 +43,7 @@ gallery:
 
 ## our works
 features:
-  title: 6 Razones por las cuales <br /> nuestros clientes nos eligen
+  title: 8 Razones por las cuales <br /> nuestros clientes nos eligen
   button:
     label: Contactanos
     link: "https://web.whatsapp.com/send?phone=+5493456252686&text=Hola%2C%20me%20comunico%20desde%20la%20web%20de%20*SER*"
