@@ -31,7 +31,7 @@ counter:
     number: 50
     messurment: KWh
     color: "#FFA800"
-    
+
 # Gallery
 gallery:
   title: Nuestro Equipo en Acción
@@ -49,33 +49,37 @@ features:
     link: "https://web.whatsapp.com/send?phone=+5493456252686&text=Hola%2C%20me%20comunico%20desde%20la%20web%20de%20*SER*"
     enable: true
   features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    
+    - title: Sostenibilidad
+      content: Nos comprometemos a la promoción y desarrollo de soluciones energéticas sostenibles y respetuosas con el medio ambiente.
+    - title: Responsabilidad
+      content: Participando y colaborando en las acciones comunitarias que contribuyan a cuidar el planeta. Contribuyendo activamente a la reducción de la huella de carbono y las emisiones de gases de efecto invernadero.
+    - title: Innovación
+      content: Buscando constantemente soluciones innovadoras y desarrollo de tecnologías más eficientes y rentables.
+    - title: Calidad
+      content: Nos comprometemos a la entrega de productos y servicios de alta calidad, garantizando la satisfacción del cliente y la durabilidad de las soluciones implementadas
+    - title: Confianza
+      content: Buscamos construir relaciones sólidas con los clientes, basadas en la confianza y la integridad en todas las interacciones.
+    - title: Colaboración
+      content: Mediante la búsqueda de alianzas estratégicas con otros actores del sector para promover el crecimiento y la adopción de energía solar fotovoltaica
+    - title: Educación y divulgación
+      content: Mediante la promoción de la conciencia y el conocimiento sobre la energía solar fotovoltaica, ofreciendo programas de educación y divulgación para clientes y la comunidad en general.
+    - title: Ética
+      content: Actuando con integridad y ética en todas nuestras actividades comerciales, prevaleciendo el respeto hacia las partes interesadas.
 
 ## members
 members:
-  title: This is who we are
-  description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
+  title: ¿Quienes integran nuestro equipo?
+  description: Nuestro equipo está formado por profesionales apasionados y expertos en energía solar fotovoltaica. Trabajamos juntos para ofrecer soluciones únicas y personalizadas que marcan la diferencia en nuestra industria.
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: Gonzalo Zambon
+      field: Ing. & Co-founder
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: Daniela Gomez
+      field: Ventas & Co-founder
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
+    - name: German Gomez
+      field: Divulgación & Co-founder
       image: "/images/users/user-3.png"
 ---
+
 Somos una empresa especializada en la instalación de paneles solares para hogares, empresas y campos. Nuestro enfoque es proporcionar soluciones energéticas sostenibles y eficientes que ayuden a reducir costos y proteger el medio ambiente. Contamos con un equipo de profesionales capacitados y utilizamos productos de alta calidad para garantizar resultados óptimos.

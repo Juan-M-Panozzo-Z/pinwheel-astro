@@ -18,7 +18,7 @@ const { title, images } = gallery;
           images.map((image: any) => (
             <div class="picture-item sm:col-12 lg:col-6 mt-12">
               {" "}
-              <img class="w-full" src={image} alt="" />
+              <img class="w-full h-auto" src={image} alt="" />
             </div>
           ))
         }
@@ -41,12 +41,12 @@ const { title, images } = gallery;
 
 <script>
   import Shuffle from "shufflejs";
-  const element = document.getElementById("photo-gallery");
-  const sizer = element.querySelector(".js-shuffle-sizer");
+  const element = document?.getElementById("photo-gallery") as HTMLElement;
+  const sizer = element?.querySelector(".js-shuffle-sizer") as HTMLElement;
   // Assumes you're using the UMD version of Shuffle (for example, from unpkg.com).
   const shuffleInstance = new Shuffle(element, {
     itemSelector: ".picture-item",
     sizer: sizer,
-    columnWidth: 1,
+    columnWidth: 2,
   });
 </script>
