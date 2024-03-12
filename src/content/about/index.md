@@ -14,12 +14,23 @@ buttons:
 counter:
   - name: "Localidades"
     number: 15
-    messurment: M
+    # messurment: M
     color: "#A3A1FB"
+
   - name: "Clientes"
     number: 52
-    messurment: M
+    # messurment: M
     color: "#5EE2A0"
+
+  - name: "Paneles instalados"
+    number: 150
+    messurment: KW
+    color: "#FF6A6A"
+
+  - name: "almacenamiento en baterias"
+    number: 50
+    messurment: KWh
+    color: "#FFA800"
     
 # Gallery
 gallery:
