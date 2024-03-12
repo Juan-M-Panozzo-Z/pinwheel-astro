@@ -28,12 +28,12 @@ const readingTime = (content: string) => {
 
   if (minutes < 10) {
     if (minutes < 2) {
-      return "0" + minutes + ` Min read`;
+      return "0" + minutes + ` Min de lectura`;
     } else {
-      return "0" + minutes + ` Mins read`;
+      return "0" + minutes + ` Mins de lectura`;
     }
   } else {
-    return minutes + ` Mins read`;
+    return minutes + ` Mins de lectura`;
   }
 };
 
