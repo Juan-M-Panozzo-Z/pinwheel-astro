@@ -74,10 +74,10 @@ members:
     - name: Gonzalo Zambon
       field: Ing. & Co-founder
       image: "/images/users/user-1.png"
-    - name: Daniela Gomez
+    - name: Daniela Gómez
       field: Ventas & Co-founder
       image: "/images/users/user-2.png"
-    - name: German Gomez
+    - name: German Gómez
       field: Divulgación & Co-founder
       image: "/images/users/user-3.png"
 ---
