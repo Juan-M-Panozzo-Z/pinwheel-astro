@@ -1,4 +1,4 @@
 ---
-title: Contact
-page_title: Get’n touch with Our </br> Pinwheel team
+title: Contactanos
+page_title: Llena el formulario para contactarnos.
 ---
