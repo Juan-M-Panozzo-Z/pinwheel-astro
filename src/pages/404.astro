@@ -11,21 +11,24 @@ const { Content } = await entry.render();
 ---
 
 <Base title={entry.data.title}>
-  <section class="section">
-    <div class="container">
-      <div class="flex h-[40vh] items-center justify-center">
-        <div class="text-center">
-          <Image
-            src="/images/404.png"
+    <section class="section">
+        <div class="container">
+            <div class="flex h-[40vh] items-center justify-center">
+                <div class="text-center">
+                    <Image
+            src="/images/logo.png"
             class="mb-4 inline"
             alt="logo"
-            height={120}
-            width={120}
+            width={380}
+            height={90}
           />
-          <h1 class="mb-4" set:html={markdownify(entry.data.title)} />
-          <Content />
+                    <!-- <h1 class="mb-4" set:html={markdownify(entry.data.title)} /> -->
+                    <Content />
+                    <a href="/" class="btn btn-primary mt-4">
+                        Volver al inicio
+                    </a>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-  </section>
+    </section>
 </Base>
