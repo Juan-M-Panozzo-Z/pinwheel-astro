@@ -17,7 +17,7 @@ const careerIndex = (await getEntryBySlug<any, string>(
   "-index",
 )) as TCareerIndex;
 const { benifits, career, image } = careerIndex.data;
-const categories = await getTaxonomy("careers", "categories");
+const categories = await getTaxonomy("careercategoriess", "categories");
 const jobposts = await getSinglePage("careers");
 const page_data = {
   title: careerIndex.data.title,

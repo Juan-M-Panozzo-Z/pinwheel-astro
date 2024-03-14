@@ -1,50 +1,51 @@
 ---
-title: Features
+title: Caracteristicas
 banner:
-  title: Connects with all your other tools to create a smooth experience.
-  content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.
+  title: ¡Energía limpia para tu hogar, empresa o campo!
+  content: Conviertí la luz solar en electricidad limpia y renovable, reduciendo tus costos de energía y tu huella de carbono. Ya sea que desees ahorrar dinero, proteger el medio ambiente o independizarte de los altos precios de la electricidad, nuestros expertos en instalación de paneles solares están aquí para ayudarte a aprovechar al máximo la energía solar.
   image: "/images/features-banner-img.png"
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: false
 project_management:
-  title: Build collaborative workspaces <br /> for your team
-  content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. <br /> Mauris pellentesque nec, egestas non nisi. Cras ultricies .
+  title: Potenciate <br /> con energía solar
+  content: Ahorrá dinero, cuida el planeta. Paneles solares de calidad para hogares, empresas y campos. Soluciones adaptadas a tus necesidades. ¡Únete a la revolución solar hoy!
 
   management:
     title: Project Management
     projects:
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
-        icon: lock  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
-        icon: tv  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
-        icon: tool  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
-        icon: lock  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
-        icon: tv  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
+      - title: Eficiencia energética
+        content: Máxima eficiencia solar para reducir costos y consumo de energía.
+        icon: sun  #icon package react-feather-icon [https://feathericons.com/]
+      - title: Ahoro económico
+        content: Generá ingresos y ahorrá dinero con paleles solares de calidad.
+        icon: divide  #icon package react-feather-icon [https://feathericons.com/]
+      - title: Adaptabilidad
+        content: Paneles solares adaptador para cualquier tipo de propiedad.
+        icon: home  #icon package react-feather-icon [https://feathericons.com/]
+      - title: Tecnología avanzada
+        content: Paneles solares de última generación para mayor rendimiento energético.
+        icon: cpu  #icon package react-feather-icon [https://feathericons.com/]
+      - title: Durabilidad y garantía
+        content: Paneles solares duraderos respaldados por sólidad garantías.
+        icon: shield  #icon package react-feather-icon [https://feathericons.com/]
+      - title: Instalación profesional
+        content: Instalación experta para un rrendimiento solar óptimo y confiable.
         icon: tool  #icon package react-feather-icon [https://feathericons.com/]
   feature_service:
-    title: Accept payments from devices any country in this universe
-    description: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    title: Energia solar donde la necesites
+    description: Llegamos a donde estés, ya sea en tu hogar, empresa o campo. Nuestros expertos en energía solar te ayudarán a encontrar la solución perfecta para tus necesidades.
     image: "/images/features/feature-img-1.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
+      - Bombeo solar para riego
+      - Sistemas fotovoltaicos conectados a la red
+      - Sistemas fotovoltaicos aislados
     buttons:
-      - label: Download The Theme
-        link: "https://themefisher.com/astro-themes/pinwheel-astro"
-        enable: false
+      - label: Mas información
+        link: "/categories/kits"
+        outline: true
+        enable: true
       - label: Learn More
         link: "#"
         outline: true
