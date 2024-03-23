@@ -18,8 +18,8 @@ project_management:
       - title: Eficiencia energética
         content: Máxima eficiencia solar para reducir costos y consumo de energía.
         icon: sun  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Ahoro económico
-        content: Generá ingresos y ahorrá dinero con paleles solares de calidad.
+      - title: Ahorro económico
+        content: Generá ingresos y ahorrá dinero con paneles solares de calidad.
         icon: divide  #icon package react-feather-icon [https://feathericons.com/]
       - title: Adaptabilidad
         content: Paneles solares adaptador para cualquier tipo de propiedad.
