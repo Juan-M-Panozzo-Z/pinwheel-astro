@@ -690,7 +690,7 @@ select:invalid {
     @apply font-primary text-2xl font-bold text-[#999999];
   }
 
-  p {
+  .features-content {
     @apply hidden;
   }
 
@@ -699,7 +699,7 @@ select:invalid {
     h2 {
       @apply text-dark;
     }
-    p {
+    .features-content {
       @apply block;
     }
   }

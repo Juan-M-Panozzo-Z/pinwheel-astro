@@ -16,21 +16,20 @@ const FeatureTab = ({ feature_tab }) => {
         {feature_tab.list.map((item, index) => (
           <div
             key={`item-${index}`}
-            className={`features-tab-penel ${
-              tab === index ? "active" : undefined
-            } relative`}
+            className={`features-tab-penel ${tab === index ? "active" : undefined
+              } relative`}
           >
-            <img className="w-full object-contain" src={item.image} />
+            <img className="w-full object-cover aspect-square rounded-xl shadow-lg" src={item.image} />
           </div>
         ))}
       </div>
+
       <div className="mt-6 lg:col-6 lg:mt-0">
         <div className="lg:max-w-[473px]">
           {feature_tab.list.map((item, index) => (
             <div
-              className={`features-tab-item ${
-                tab === index ? "active" : undefined
-              } mt-9 first:mt-0`}
+              className={`features-tab-item ${tab === index ? "active" : undefined
+                } mt-9 first:mt-0`}
               key={index}
             >
               <h2
@@ -40,12 +39,15 @@ const FeatureTab = ({ feature_tab }) => {
                 }}
                 onClick={() => setTab(index)}
               />
-              <p className="mt-4">{item.content}</p>
+              <div className="features-content space-y-4">
+                <p>{item.content}</p>
+                <a href={item.href} className="btn btn-sm btn-primary">Ver en tienda</a>
+              </div>
             </div>
           ))}
         </div>
       </div>
-    </div>
+    </div >
   );
 };
 

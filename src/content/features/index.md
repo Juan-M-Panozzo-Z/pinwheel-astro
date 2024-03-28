@@ -17,22 +17,22 @@ project_management:
     projects:
       - title: Eficiencia energética
         content: Máxima eficiencia solar para reducir costos y consumo de energía.
-        icon: sun  #icon package react-feather-icon [https://feathericons.com/]
+        icon: sun #icon package react-feather-icon [https://feathericons.com/]
       - title: Ahorro económico
         content: Generá ingresos y ahorrá dinero con paneles solares de calidad.
-        icon: divide  #icon package react-feather-icon [https://feathericons.com/]
+        icon: divide #icon package react-feather-icon [https://feathericons.com/]
       - title: Adaptabilidad
         content: Paneles solares adaptador para cualquier tipo de propiedad.
-        icon: home  #icon package react-feather-icon [https://feathericons.com/]
+        icon: home #icon package react-feather-icon [https://feathericons.com/]
       - title: Tecnología avanzada
         content: Paneles solares de última generación para mayor rendimiento energético.
-        icon: cpu  #icon package react-feather-icon [https://feathericons.com/]
+        icon: cpu #icon package react-feather-icon [https://feathericons.com/]
       - title: Durabilidad y garantía
         content: Paneles solares duraderos respaldados por sólidad garantías.
-        icon: shield  #icon package react-feather-icon [https://feathericons.com/]
+        icon: shield #icon package react-feather-icon [https://feathericons.com/]
       - title: Instalación profesional
         content: Instalación experta para un rrendimiento solar óptimo y confiable.
-        icon: tool  #icon package react-feather-icon [https://feathericons.com/]
+        icon: tool #icon package react-feather-icon [https://feathericons.com/]
   feature_service:
     title: Energia solar donde la necesites
     description: Llegamos a donde estés, ya sea en tu hogar, empresa o campo. Nuestros expertos en energía solar te ayudarán a encontrar la solución perfecta para tus necesidades.
@@ -51,15 +51,20 @@ project_management:
         outline: true
         enable: false
   feature_tab:
-    title: Payment gateway for every stage <br /> of your business growth
+    title: ¿Sabías que podés comprar nuestros kits en Rigelec Store?
     list:
-      - title: Transaction from Anyone with <br /> a world to Anywhere
-        content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
-        image: "/images/features/feature-img-2.png"
-      - title: Integrate Checkout with Process Smoothly
-        content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
-        image: "/images/features/feature-img-1.png"
-      - title: Transaction from Anyone with <br /> a world to Anywhere
-        content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
-        image: "/images/features/feature-img-2.png"
+      - title: Kits ahorro
+        content: Nuestros kits de ahorro energético son ideales para reducir tus costos de energía y tu huella de carbono
+        image: "/images/features/on-grid.webp"
+        href: "https://store.rigelec.com.ar/families/A%20-%20AHORRO"
+        
+      - title: Kits Aislados
+        content: Nuestros kits aislados son perfectos para lugares donde no hay acceso a la red eléctrica
+        image: "/images/features/off-grid.webp"
+        href: "https://store.rigelec.com.ar/families/B%20-%20AISLADOS"
+
+      - title: Kits de Bombeo Solar
+        content: Nuestros kits de bombeo solar son ideales para riego y otras aplicaciones agrícolas
+        image: "/images/features/bombeo.webp"
+        href: "https://store.rigelec.com.ar/families/D%20-%20BOMBEO"
 ---

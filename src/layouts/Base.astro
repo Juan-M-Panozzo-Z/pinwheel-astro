@@ -19,6 +19,7 @@ if (theme.fonts.font_family.primary) {
     .replace(/\+/g, " ")
     .replace(/:[ital,]*[ital@]*[wght@]*[0-9,;]+/gi, "");
 }
+
 if (theme.fonts.font_family.secondary) {
   fontSecondary = theme.fonts.font_family.secondary
     .replace(/\+/g, " ")
@@ -72,6 +73,7 @@ const { title, meta_title, description, image, noindex, canonical } =
           fallback: "sans-serif",
           cssVariable: "font-primary",
           googleFontsURL: `https://fonts.googleapis.com/css2?family=${pf}&display=swap`,
+
         },
         {
           src: [],
