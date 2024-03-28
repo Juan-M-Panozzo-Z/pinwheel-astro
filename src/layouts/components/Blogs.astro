@@ -32,8 +32,9 @@ const { posts } = Astro.props;
               <a href={`/blog/${item.slug}`}>{item.data.title}</a>
             </h3>
             <p class="mb-4 text-text">
-              {plainify(item.data.subtitle?.slice(0, Number(summary_length)))}...
+              {plainify(item.data.subtitle)}
             </p>
+            <a class="btn btn-xs btn-secondary" href={item.data.link}>{item.data.link_text}</a>
             <div class="card-footer mt-6 flex space-x-4">
               <span class="inline-flex items-center text-xs text-[#666]">
                 <svg
