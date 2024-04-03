@@ -44,18 +44,18 @@ service:
     title: Nuestras soluciones a medida
     description: Ofrecemos soluciones personalizadas que se adaptan a las necesidades únicas de cada cliente. Nuestro enfoque personalizado y equipo experto garantizan resultados excepcionales que superan expectativas. Trabajamos estrechamente contigo para impulsar tu éxito con soluciones efectivas y eficientes.
     tab_list:
-        - title: Hogares
-          icon: "home"
-          image: "/images/ser/1.png"
-        - title: Empresas
-          icon: "tool"
-          image: "/images/ser/1.png"
-        - title: Estaciones de servicio
-          icon: "sun"
-          image: "/images/ser/1.png"
-        - title: Bombeo Solar
-          icon: "home"
-          image: "/images/ser/1.png"
+      - title: Hogares
+        icon: "home"
+        image: "/images/ser/1.png"
+      - title: Empresas
+        icon: "tool"
+        image: "/images/ser/1.png"
+      - title: Estaciones de servicio
+        icon: "sun"
+        image: "/images/ser/1.png"
+      - title: Bombeo Solar
+        icon: "home"
+        image: "/images/ser/1.png"
 
   our_service:
     - title: Somos instaladores destacados
@@ -73,7 +73,7 @@ service:
         video_id: "f54Ei-gz-UU"
       button:
         label: Ir al canal
-        link: "#"
+        link: "https://www.youtube.com/@INGENIERIASER"
         enable: true
 
 #testimonial
@@ -83,17 +83,17 @@ testimonial:
   testimonial_list:
     - author: Federico Schatenoffer
       avatar: "/images/users/user-5.png"
-      organization: 
+      organization:
       rating: five
       content: Personas muy responsables y profesionales en todo el proceso del proyecto del potrero san francisco.
     - author: Mario Smietuch
       avatar: "/images/users/user-6.png"
-      organization: 
+      organization:
       rating: five
       content: Perfectamente conforme con todo el proceso que llevo a la instalación de 16 paneles en mi fabrica de miel.
     - author: Fernanda Lastiri
       avatar: "/images/users/user-2.png"
-      organization: 
+      organization:
       rating: five
       content: Fueron muy amables y siempre cumplieron con lo hablado.
 ---
