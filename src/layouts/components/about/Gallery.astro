@@ -53,4 +53,8 @@ const { title, images } = gallery;
         sizer: sizer,
         columnWidth: 1,
     });
+
+    window.addEventListener("resize", () => {
+        shuffleInstance.update();
+    });
 </script>

@@ -38,20 +38,20 @@
           "url": "/blog/post-3"
         }
       ]
-    },
-    {
-      "name": "Contactanos",
-      "url": "/contact"
     }
   ],
+  "cta": {
+    "name": "Tienda Rigelec",
+    "url": "https://store.rigelec.com.ar"
+  },
   "footer": [
     {
       "name": "Nosotros",
       "url": "/about"
     },
     {
-      "name": "Contactanos",
-      "url": "/contact"
+      "name": "Tienda Rigelec",
+      "url": "https://store.rigelec.com.ar"
     }
   ]
 }
