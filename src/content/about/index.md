@@ -73,13 +73,16 @@ members:
   member_list:
     - name: Gonzalo Zambon
       field: Ing. & Co-founder
-      image: "/images/users/user-1.png"
+      image: "/images/users/gonzalo-zambon.jpeg"
+      linkedin: "https://www.linkedin.com/in/gonzalo-zambon"
     - name: Daniela Gómez
       field: Ventas & Co-founder
-      image: "/images/users/user-2.png"
+      image: "/images/users/daniela-gomez.jpeg"
+      linkedin: "https://www.linkedin.com/in/daniela-gomez-120a67225"
     - name: German Gómez
       field: Divulgación & Co-founder
-      image: "/images/users/user-3.png"
+      image: "/images/users/german-gomez.jpeg"
+      linkedin: "https://www.linkedin.com/in/german-gomez-8a8a6211b/"
 ---
 
 Somos una empresa especializada en la instalación de paneles solares para hogares, empresas y campos. Nuestro enfoque es proporcionar soluciones energéticas sostenibles y eficientes que ayuden a reducir costos y proteger el medio ambiente. Contamos con un equipo de profesionales capacitados y utilizamos productos de alta calidad para garantizar resultados óptimos.

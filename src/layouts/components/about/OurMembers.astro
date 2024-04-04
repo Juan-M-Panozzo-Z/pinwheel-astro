@@ -1,5 +1,6 @@
 ---
 import { Image } from "astro:assets";
+import { Linkedin } from "react-feather";
 const {
   members: { title, description, member_list },
 } = Astro.props;
@@ -21,14 +22,23 @@ const {
           {
             member_list.map((item: any) => (
               <div class="mb-6 flex flex-col px-6 text-center sm:col-6 lg:col-4 sm:items-center">
-                <div class="member-avatar inline-flex justify-center">
+                <div class="relative member-avatar inline-flex justify-center">
                   <Image
-                    height={112}
-                    width={112}
-                    class="rouded-full h-28 w-28"
+                    height={200}
+                    width={200}
+                    class="rounded-full h-32 w-32 object-cover"
                     src={item.image}
                     alt=""
                   />
+                  <div class="absolute bottom-0 right-0 bg-white rounded-full p-2 shadow-md">
+                    <a
+                      href={item.linkedin}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <Linkedin size={22} />
+                    </a>
+                  </div>
                 </div>
                 <div class="mt-6 w-full flex-1 rounded-xl bg-white px-4 py-8 shadow-lg">
                   <h5 class="font-primary">{item.name}</h5>
