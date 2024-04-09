@@ -14,29 +14,19 @@ key_features:
   description: Somos una empresa dedicada a la excelencia y la innovación, comprometida con la calidad y la satisfacción del cliente. Nuestro equipo apasionado y experto trabaja para ofrecer soluciones únicas y personalizadas que marcan la diferencia en nuestra industria.
   feature_list:
     - icon: "sustain"
-      title: Sostenibilidad
-      content: Nos comprometemos a la promoción y desarrollo de soluciones energéticas sostenibles y respetuosas con el medio ambiente.
+      title: Soluciones llave en mano
+      content: Nos encargamos de todo para que tengas tu sistema solar sin preocupaciones o trabajos extra.
     - icon: "responsability"
-      title: Responsabilidad
-      content: Participando y colaborando en las acciones comunitarias que contribuyan a cuidar el planeta. Contribuyendo activamente a la reducción de la huella de carbono y las emisiones de gases de efecto invernadero.
+      title: Contamos con un departamento de ingeniería
+      content: Se encarga de dimensionar y calcular todas las variantes en cada instalación.
     - icon: "innovate"
-      title: Innovación
-      content: Buscando constantemente soluciones innovadoras y desarrollo de tecnologías más eficientes y rentables.
+      title: Asesoramiento y post-venta personalizado
+      content: Nuestros técnicos especializados contestarán todas tus preguntas ¡No dudes en contactarnos!.
     - icon: "quality"
-      title: Calidad
-      content: Nos comprometemos a la entrega de productos y servicios de alta calidad, garantizando la satisfacción del cliente y la durabilidad de las soluciones implementadas
-    - icon: "trust"
-      title: Confianza
-      content: Buscamos construir relaciones sólidas con los clientes, basadas en la confianza y la integridad en todas las interacciones.
-    - icon: "collaborate"
-      title: Colaboración
-      content: Mediante la búsqueda de alianzas estratégicas con otros actores del sector para promover el crecimiento y la adopción de energía solar fotovoltaica
-    - icon: "education"
-      title: Educación y divulgación
-      content: Mediante la promoción de la conciencia y el conocimiento sobre la energía solar fotovoltaica, ofreciendo programas de educación y divulgación para clientes y la comunidad en general.
-    - icon: "ethics"
-      title: Ética
-      content: Actuando con integridad y ética en todas nuestras actividades comerciales, prevaleciendo el respeto hacia las partes interesadas.
+      title: Potenciados por Rigelec S.R.L.
+      content: Contamos con el respaldo de una empresa con más de 35 años de experiencia en el rubro eléctrico.
+      href: "https://www.rigelec.com.ar"
+      label: "Conocé Rigelec"
 
 #service
 service:

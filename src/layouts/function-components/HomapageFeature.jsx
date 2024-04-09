@@ -2,18 +2,28 @@ const HomapageFeature = ({ feature_list }) => {
   return (
     <div className="key-feature-grid mt-10 grid grid-cols-1 gap-7 md:grid-cols-3 xl:grid-cols-4">
       {feature_list.map((item, i) => {
-        const SerIcon = <img src={`/icons/${item.icon}.svg`} alt={item.icon}/>;
+        const SerIcon = <img src={`/icons/${item.icon}.svg`} alt={item.icon} />;
         return (
           <div
             key={i}
             className="flex flex-col justify-between rounded-lg bg-white p-5 shadow-lg"
           >
-            <div>
+            <div className="">
               <h3 className="h4 text-xl lg:text-2xl">{item.title}</h3>
               <p>{item.content}</p>
+              {item.href && (
+                <a
+                  target="_blank"
+                  href={item.href}
+                  className="text-primary hover:underline"
+                >
+                  {item.label}
+                </a>
+
+              )}
             </div>
             <span className="icon mt-4">
-            {SerIcon}
+              {SerIcon}
             </span>
           </div>
         );
