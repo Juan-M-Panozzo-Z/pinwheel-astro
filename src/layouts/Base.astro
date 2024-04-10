@@ -73,7 +73,6 @@ const { title, meta_title, description, image, noindex, canonical } =
           fallback: "sans-serif",
           cssVariable: "font-primary",
           googleFontsURL: `https://fonts.googleapis.com/css2?family=${pf}&display=swap`,
-
         },
         {
           src: [],
@@ -95,7 +94,15 @@ const { title, meta_title, description, image, noindex, canonical } =
 
     <!-- title -->
     <title>
-      {plainify(meta_title ? meta_title : title ? `${config.site.title} -  ${title}` : config.site.title)}
+      {
+        plainify(
+          meta_title
+            ? meta_title
+            : title
+              ? `${config.site.title} -  ${title}`
+              : config.site.title
+        )
+      }
     </title>
 
     <!-- canonical url -->
@@ -108,7 +115,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       name="description"
       content={plainify(
-        description ? description : config.metadata.meta_description,
+        description ? description : config.metadata.meta_description
       )}
     />
 
@@ -121,7 +128,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       property="og:title"
       content={plainify(
-        meta_title ? meta_title : title ? title : config.site.title,
+        meta_title ? meta_title : title ? title : config.site.title
       )}
     />
 
@@ -129,7 +136,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       property="og:description"
       content={plainify(
-        description ? description : config.metadata.meta_description,
+        description ? description : config.metadata.meta_description
       )}
     />
     <meta property="og:type" content="website" />
@@ -142,7 +149,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       name="twitter:title"
       content={plainify(
-        meta_title ? meta_title : title ? title : config.site.title,
+        meta_title ? meta_title : title ? title : config.site.title
       )}
     />
 
@@ -150,7 +157,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       name="twitter:description"
       content={plainify(
-        description ? description : config.metadata.meta_description,
+        description ? description : config.metadata.meta_description
       )}
     />
 
@@ -174,7 +181,7 @@ const { title, meta_title, description, image, noindex, canonical } =
   <body>
     <!-- <TwSizeIndicator /> -->
     <Header />
-    <main id="main-content">
+    <main id="main-content" class="space-y-4">
       <slot />
     </main>
     <Footer />

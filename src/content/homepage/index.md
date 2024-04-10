@@ -2,7 +2,7 @@
 banner:
   title: "Soluciones en Energias Renovables"
   content: "Somos una empresa especializada en instalación de paneles solares y energía renovable. ¡Transformamos tu hogar o negocio hacia un futuro más sostenible!"
-  image: /images/ser/1.png
+  video: /videos/ser/DJI_0002.MP4
   button:
     label: Quiero comunicarme
     link: "https://web.whatsapp.com/send?phone=+5493456252686&text=Hola%2C%20me%20comunico%20desde%20la%20web%20de%20*SER*"
