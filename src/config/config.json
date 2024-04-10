@@ -10,28 +10,24 @@
     "logo_height": "47",
     "logo_text": "Ser"
   },
-
   "settings": {
     "pagination": 6,
     "summary_length": 100,
     "blog_folder": "blog"
   },
-
   "call_to_action": {
     "title": "¿Tenés un proyecto increíble ahora mismo?",
     "description": "Esto ayuda a garantizar la calidad, la programación y que todos estemos trabajando hacia el mismo objetivo.",
     "button": {
       "label": "Contactarme",
-      "link": "/contact"
+      "link": "https://web.whatsapp.com/send?phone=+5493456252686&text=Hola%2C%20me%20comunico%20desde%20la%20web%20de%20*SER*"
     }
   },
-
   "disqus": {
     "enable": false,
     "shortname": "ser-astro",
     "settings": {}
   },
-
   "params": {
     "footer_description": "Somos una empresa dedicada a la ingeniería y construcción de proyectos de energías renovables. Nuestro objetivo es brindar soluciones energéticas sustentables y eficientes.",
     "email": "ingenieriaser@rigelec.com.ar",
@@ -40,7 +36,6 @@
     "contact_form_action": "#",
     "copyright": "Copyright © 2024, Juan Manuel Panozzo Zénere | SER"
   },
-
   "metadata": {
     "meta_author": "Juan Manuel Panozzo Zénere",
     "meta_image": "/images/og-image.png",
