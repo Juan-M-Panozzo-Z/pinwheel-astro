@@ -41,17 +41,13 @@
     }
   ],
   "cta": {
-    "name": "Tienda Rigelec",
-    "url": "https://store.rigelec.com.ar/families/A - AHORRO"
+    "name": "Quiero comunicarme",
+    "url": "https://web.whatsapp.com/send?phone=+5493456252686&text=Hola%2C%20me%20comunico%20desde%20la%20web%20de%20*SER*"
   },
   "footer": [
     {
       "name": "Nosotros",
       "url": "/about"
-    },
-    {
-      "name": "Tienda Rigelec",
-      "url": "https://store.rigelec.com.ar/families/A - AHORRO"
     }
   ]
 }

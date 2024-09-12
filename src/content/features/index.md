@@ -56,15 +56,12 @@ project_management:
       - title: Kits ahorro
         content: Nuestros kits de ahorro energético son ideales para reducir tus costos de energía y tu huella de carbono
         image: "/images/features/on-grid.webp"
-        href: "https://store.rigelec.com.ar/families/A%20-%20AHORRO"
         
       - title: Kits Aislados
         content: Nuestros kits aislados son perfectos para lugares donde no hay acceso a la red eléctrica
         image: "/images/features/off-grid.webp"
-        href: "https://store.rigelec.com.ar/families/B%20-%20AISLADOS"
 
       - title: Kits de Bombeo Solar
         content: Nuestros kits de bombeo solar son ideales para riego y otras aplicaciones agrícolas
         image: "/images/features/bombeo.webp"
-        href: "https://store.rigelec.com.ar/families/D%20-%20BOMBEO"
 ---

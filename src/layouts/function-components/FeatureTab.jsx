@@ -41,7 +41,6 @@ const FeatureTab = ({ feature_tab }) => {
               />
               <div className="features-content space-y-4">
                 <p>{item.content}</p>
-                <a href={item.href} className="btn btn-sm btn-primary">Ver en tienda</a>
               </div>
             </div>
           ))}
